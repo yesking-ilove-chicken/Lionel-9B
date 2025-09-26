@@ -1,0 +1,187 @@
+.desktop { 
+    background-color: #808080; 
+    width: 100%; 
+    min-width: 1440px; 
+    min-height: 1024px;
+    position: relative; 
+    } 
+    
+.desktop .text-wrapper { 
+    position: absolute; 
+    top: 321px; 
+    left: 123px; 
+    width: 1194px;
+     font-family: "Oswald-Bold", Helvetica; 
+     font-weight: 700; 
+     color: #ffffff;
+     font-size: 200px;
+     text-align: center;
+     letter-spacing: 0;
+     line-height: normal; 
+     white-space: nowrap; 
+}
+
+ .desktop .rectangle {
+     position: absolute; 
+     top: 601px; 
+     left: 208px; 
+     width: 1023px; 
+     height: 39px; 
+     background-color: #ffffff; 
+}
+     
+.desktop .polygon { 
+    top: 0; 
+    width: 291px; 
+    height: 378px; 
+    position: absolute; 
+    left: 0; 
+} 
+
+.desktop .star { 
+    position: absolute;
+    top: 0; 
+    left: 1014px; 
+    width: 426px; 
+    height: 268px; 
+} 
+
+.desktop .img { 
+    position: absolute; 
+    top: 717px; 
+    left: 1052px; 
+    width: 388px; 
+    height: 307px; 
+} 
+
+.desktop .polygon-2 { 
+    top: 670px; 
+    width: 324px; 
+    height: 354px; 
+    position: absolute; 
+    left: 0; 
+} 
+/* Original CSS code should be injected here */ 
+.desktop {
+    background-color: #808080; 
+    width: 100%; 
+    min-width: 1440px; 
+    min-height: 1024px; 
+    position: relative; 
+} 
+
+.desktop .text-wrapper { 
+    position: absolute; 
+    top: 321px; 
+    left: 123px; 
+    width: 1194px; 
+    font-family: "Oswald-Bold", Helvetica; 
+    font-weight: 700; 
+    color: #ffffff; 
+    font-size: 200px; 
+    text-align: center; 
+    letter-spacing: 0; 
+    line-height: normal; 
+    white-space: nowrap; 
+
+} 
+.desktop .rectangle { 
+    position: absolute; 
+    top: 601px; 
+    left: 208px; 
+    width: 1023px; 
+    height: 39px; 
+    background-color: #ffffff; 
+}
+
+.desktop .polygon { 
+    top: 0; 
+    width: 291px; 
+    height: 378px; 
+    position: absolute; 
+    left: 0; 
+}
+
+.desktop .star { 
+    position: absolute; 
+    top: 0; 
+    left: 1014px; 
+    width: 426px; 
+    height: 268px; } 
+.desktop .img {         
+    position: absolute; 
+    top: 717px; 
+    left: 1052px; 
+    width: 388px; 
+    height: 307px; 
+}
+
+.desktop .polygon-2 { 
+    top: 670px; 
+    width: 324px; 
+    height: 354px; 
+    position: absolute; 
+    left: 0; 
+}
+
+.desktop { 
+    background-color: #00000033; 
+    width: 100%; 
+    min-width: 1440px; 
+    min-height: 1024px; 
+    position: relative; 
+} 
+
+.desktop .rectangle { 
+    position: absolute; 
+    top: 117px; 
+    left: 86px; 
+    width: 345px; 
+    height: 230px; 
+    object-fit: cover; 
+} 
+    
+.desktop .div { 
+    position: absolute; 
+    top: 117px; 
+    left: 513px; 
+    width: 811px; 
+    height: 230px; 
+    background-color: #808080; 
+} 
+
+.desktop .text-wrapper { 
+    position: absolute; 
+    top: 126px; 
+    left: 579px; 
+    width: 680px; 
+    font-family: "Oswald-Bold", Helvetica; 
+    font-weight: 700; 
+    color: #ffffff; 
+    font-size: 128px; 
+    text-align: center; 
+    letter-spacing: 0; 
+    line-height: normal; 
+} 
+
+.desktop .hi-my-name-is-lionel { 
+    position: absolute; 
+    top: 396px; 
+    left: 525px; 
+    width: 799px; 
+    font-family: "Inter-Regular", Helvetica; 
+    font-weight: 400; 
+    color: #ffffff; 
+    font-size: 40px; 
+    letter-spacing: 0; 
+    line-height: normal; 
+}
+ 
+.desktop .img { 
+    position: absolute; 
+    top: 396px; 
+    left: 86px; 
+    width: 345px; 
+    height: 521px; 
+    object-fit: cover; 
+}
